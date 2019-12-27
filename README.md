@@ -24,7 +24,7 @@ OpenCore Version : 0.5.4
 
 #### 完善程度：
 
-![OSVersion](../pic/Xnip2019-12-28_02-10-11.jpg)
+![OSVersion](./pic/Xnip2019-12-28_02-10-11.jpg)
 
 * 蓝牙 + Wi-Fi + 接力（Hand Off）+ 随航 正常
 
@@ -36,4 +36,4 @@ OpenCore Version : 0.5.4
 
 * 睡眠重启 正常
 
-![USBPort](../pic/Xnip2019-12-28_02-18-23.jpg)
+![USBPort](./pic/Xnip2019-12-28_02-18-23.jpg)
