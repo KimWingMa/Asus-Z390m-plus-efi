@@ -1,4 +1,4 @@
-# Asus-Z390m-plus-efi
+# Asus-Prime-Z390m-plus-efi
 
 
 #### 版本说明
@@ -15,7 +15,7 @@ OpenCore Version : 0.5.4
 
 | 硬件| 型号    |
 |----|----------|
-| 主板  | Asus Z390m-plus |
+| 主板  | Asus Prime Z390m-plus |
 | CPU  | Intel i7-9700   |
 | 显卡  | 铭瑄 RX580 2048SP PLUS 8G (刷bios为 蓝宝石 RX570 8G)  |
 | 内存  | 威刚 DDR4 2666 8G * 2   |
