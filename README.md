@@ -3,11 +3,11 @@
 
 #### 版本说明
 
-系统版本：macOS Catalina 10.15.2
+系统版本：macOS Catalina 10.15.5
 
 SMBIOS: iMac 19,1
 
-OpenCore Version : 0.5.4
+OpenCore Version : 0.5.8
 
 #### 具体配置如下：
 
@@ -16,11 +16,11 @@ OpenCore Version : 0.5.4
 | 硬件| 型号    |
 |----|----------|
 | 主板  | Asus Prime Z390m-plus |
-| CPU  | Intel i7-9700   |
-| 显卡  | 铭瑄 RX580 2048SP PLUS 8G (刷bios为 蓝宝石 RX570 8G)  |
-| 内存  | 威刚 DDR4 2666 8G * 2   |
-| 固态  | 西数黑盘 500G   |
-| 网卡  | BCM94360CD   |
+| CPU  | Intel i9-9900K   |
+| 显卡  | 藍寶石 RX580 2048SP PLUS 8G (刷bios为 蓝宝石 RX570 8G)  |
+| 内存  | 海盜船 DDR4 3200 16G * 2   |
+| 固态  | Intel SSD S4510 1.92T & Sandisk 256G M.2   |
+| 网卡  | BCM943602CS  & Intel 82599 10G |
 
 #### 完善程度：
 
